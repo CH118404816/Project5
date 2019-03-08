@@ -13,7 +13,7 @@ $_SESSION['txtTotal'] = $totalValue;
     </head>
         <body>
         <div class="form">
-            <form name="intCalc" method="post" action="Ebus3.php">
+            <form name="intCalc" method="post" action="Ebusiness2.php">
         <h1>Shop Calculator</h1>   
         <hr/>
         <center>
@@ -65,7 +65,7 @@ $_SESSION['txtTotal'] = $totalValue;
             <center>
             <input type="button" name="btnCalc" id="btnCalc" onclick="calcSub()" value="Calculate Amount"/>
             <input type="button" name="btnClear" id="btnClear" onclick="AmountClear()" value="Clear"/>
-            <input type="submit" name="btnProceed" id="btnProceed" onclick="Ebusiness2.html" value="Proceed"/>
+            <input type="submit" name="btnProceed" id="btnProceed" onclick="" value="Proceed"/>
         </center>
             </form>
         </div>
