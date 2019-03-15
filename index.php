@@ -17,17 +17,17 @@
   
   <!-- Navbar (placed at the bottom of the header image) -->
   <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle w3-hide-small" style="bottom:-16px">
-    <a href="http://localhost:8000/index.html" class="w3-bar-item w3-button">CV</a>
-    <a href="http://localhost:8000/tiltedpage_scroll_demo.html" class="w3-bar-item w3-button">Interests</a>
-    <a href="http://localhost:8000/ConsultingService.html" class="w3-bar-item w3-button">Consultancy</a>
+    <a href="index.html" class="w3-bar-item w3-button">CV</a>
+    <a href="tiltedpage_scroll_demo.html" class="w3-bar-item w3-button">Interests</a>
+    <a href="ConsultingService.html" class="w3-bar-item w3-button">Consultancy</a>
   </div>
 </header>
 
 <!-- Navbar on small screens -->
 <div class="w3-center w3-light-grey w3-padding-16 w3-hide-large w3-hide-medium">
 <div class="w3-bar w3-light-grey">
-  <a href="http://localhost:8000/index.html" class="w3-bar-item w3-button">CV</a>
-  <a href="http://localhost:8000/tiltedpage_scroll_demo.html" class="w3-bar-item w3-button">Interests</a>
+  <a href="index.html" class="w3-bar-item w3-button">CV</a>
+  <a href="tiltedpage_scroll_demo.html" class="w3-bar-item w3-button">Interests</a>
   <a href="#contact" class="w3-bar-item w3-button">Contact</a>
 </div>
 </div>
